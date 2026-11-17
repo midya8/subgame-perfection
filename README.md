@@ -1,6 +1,6 @@
 # Subgame perfection
 
-SubgameLab checks small, supplied two-player sequential games with exact rational arithmetic. Compare root one-node stability, full-player pure Nash equilibrium and subgame perfection while retaining off-path choices and backward-induction ties.
+This implementation checks small, supplied two-player sequential games with exact rational arithmetic. Compare root one-node stability, full-player pure Nash equilibrium and subgame perfection while retaining off-path choices and backward-induction ties.
 
 ## Choose a stability question
 
